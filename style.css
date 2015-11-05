@@ -693,7 +693,7 @@ Footer
 --------------------------------------------------------------------------------------------------------------------------------
 */
 
-footer.footer { background-image: url("images/bg-footer.png"); background-position: left top; background-repeat: repeat-x; }
+footer.footer { background: #eee!important }
 
 /* Footer: Copyright */
 footer.footer .copyright { padding: 15px 0; }

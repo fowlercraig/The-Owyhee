@@ -29,14 +29,14 @@
         </div>
     </div><!-- footer-areas -->
     
-    <footer class="footer left">
+    <footer class="footer">
         <div class="footer-container">
                     
             <div class="copyright left">
 				<?php _e('Copyright', 'gp'); ?> &copy; <?php echo the_date('Y'); ?> <a href="<?php echo home_url(); ?>" title="<?php echo get_bloginfo('name'); ?>"><?php echo get_bloginfo('name'); ?></a>. <?php _e('All rights reserved.', 'gp'); ?>
 						</div>
-						<div class="footer-nav left">
-				<?php wp_nav_menu( array('menu' => 'Footer Navigation', 'container' => false, 'menu_class' => 'menu-footer', 'before' => '&nbsp;|&nbsp;' )); ?>
+						<div class="footer-nav right">
+				<?php wp_nav_menu( array('menu' => 'Footer Navigation', 'container' => false, 'menu_class' => 'menu-footer', 'after' => '&nbsp;|&nbsp;' )); ?>
             </div>
             
             <?php if (get_option('gp_socials_new_window') != 'No') {

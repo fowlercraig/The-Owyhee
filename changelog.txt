@@ -1,0 +1,90 @@
+==============================================
+Linguini Changelog
+==============================================
+----------------------------------------------
+Version 1.7.6 (20 Dec 2012) changed files:
+----------------------------------------------
+css/responsive.css
+page-contact.php
+page-reservation.php
+----------------------------------------------
+Version 1.7.5 (16 Dec 2012) changed files:
+----------------------------------------------
+admin/css/style.css
+admin/options/theme-options.php
+css/components.css
+css/responsive.css
+forms/recaptchalib.php [NEW]
+images/icons/icon-foursquare [NEW]
+images/icons/icon-qype [NEW]
+images/icons/icon-tripadvisor [NEW]
+images/icons/icon-xing [NEW]
+js/custom.js
+languages/default.mo
+languages/default.po
+comments.php
+footer.php
+functions.php
+header.php
+page-contact.php
+page-photos.php
+page-reservation.php
+style.php
+taxonomy-photo-galleries.php
+----------------------------------------------
+Version 1.7.4 (6 Nov 2012) changed files:
+----------------------------------------------
+admin/functions/widgets/widget-contact.php
+admin/functions/widgets/widget-reservation.php
+admin/options/theme-options.php
+css/responsive.css
+languages/default.mo
+languages/default.po
+footer.php
+header.php
+page-home.php
+style.css
+----------------------------------------------
+Version 1.7.3 (5 Nov 2012) changed files:
+----------------------------------------------
+admin/functions/widgets/widget-contact.php
+admin/functions/widgets/widget-reservation.php
+css/responsive.css
+js/custom.js
+languages/default.mo
+languages/default.po
+functions.php
+header.php
+page-contact.php
+page-home.php
+page-reservation.php
+style.css
+----------------------------------------------
+Version 1.7.2 (28 Sep 2012) changed files:
+----------------------------------------------
+css/responsive.css
+functions.php
+style.css
+----------------------------------------------
+Version 1.7.1 (08 Sep 2012) changed files:
+----------------------------------------------
+admin/options/theme-shortcodes.php
+----------------------------------------------
+Version 1.7 (30 Aug 2012) changed files:
+----------------------------------------------
+admin/functions/cpt/cpt-callouts.php
+admin/functions/cpt/cpt-slides.php
+admin/functions/widgets/widget-reservation.php
+admin/functions/widgets/widget-tweets.php
+css/responsive.css
+js/custom.js
+js/supersized.js
+js/tweet.js
+footer.php
+functions.php
+header.php
+page-contact.php
+page-home.php
+page-menu-food.php
+single-menu-food.php
+style.css

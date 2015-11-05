@@ -273,6 +273,7 @@ function theme_setup() {
 	add_image_size('post-medium', 716, 260, true);
 	add_image_size('post-large', 988, 9999);
 	add_image_size('callout', 316, 120, true);
+	add_image_size('square-medium', 700, 700, false);
 }
 add_action( 'after_setup_theme', 'theme_setup' );
 // END // Thumbnails

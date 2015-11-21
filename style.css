@@ -1,3 +1,5 @@
+/* @override http://craigs-imac.attlocal.net:5757/wp-content/themes/owyhee/style.css */
+
 /*
 Theme Name: Linguini: Restaurant Responsive WordPress Theme
 Theme URI: http://grandpixels.com/linguini
@@ -179,7 +181,7 @@ h4 { font-size: 15px; font-weight: normal; padding: 10px 0; clear: both; }
 h5 { font-size: 13px; font-weight: normal; padding: 10px 0; clear: both; }
 
 /* Common: Page Header */
-.page-header { float: left; width: 100%; padding: 10px 0; text-align: center; background: #5A5A5B; }
+.page-header { float: left; width: 100%; padding: 10px 0; text-align: center; background: #41A8A1; }
 .page-header h1 { color: white; margin: 0; font-family: "OpenSansCondensedBold" !important; font-size: 38px; font-weight: normal; }
 .page-header h1 .post-price { font-weight: normal; padding: 0 10px; }
 
@@ -300,7 +302,7 @@ header.header .logo-default a { display: block; margin: 0; padding: 0; backgroun
 
 /* Header: Tagline */
 header.header .tagline,
-header.header .phone {padding: 15px 0; margin-right: 30px; font-family: "OpenSansCondensedLight" !important; font-size: 15px; filter: alpha(opacity=40); -moz-opacity: 0.4; -khtml-opacity: 0.4; -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)"; }
+header.header .phone {padding: 13px 0; margin-right: 30px; font-family: "OpenSansCondensedLight" !important; font-size: 18px; filter: alpha(opacity=40); -moz-opacity: 0.4; -khtml-opacity: 0.4; -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)"; }
 
 /*
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
